@@ -3,6 +3,7 @@
 also knows as KNUCKLE-TATTOO-GENERATOR (in Finnish)!
 Rystystatuointi-generaattori!
 
+
 ## To run the parse_csv.py script, follow these steps:
 
 1. Open a terminal.
